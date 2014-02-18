@@ -1,0 +1,10 @@
+{
+  "name": "diserrors",
+  "description": "A pattern to display meteor application errors to the user",
+  "homepage": "https://github.com/freebooterish/diserrors",
+  "author": "David wang <freebooter@263.net>",
+  "version": "0.0.9",
+  "git": "https://github.com/freebooterish/diserrors.git",
+  "packages": {
+  }
+}
